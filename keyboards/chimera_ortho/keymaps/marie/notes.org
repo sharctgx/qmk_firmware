@@ -1,0 +1,19 @@
+notes -*- mode: org -*-
+#+TITLE: notes
+
+
+1. Leave only 3 layers
+   - letters
+   - numpad + arrows
+   - Fx + symbols
+
+2. Think where to put modifiers
+   - Esc for the thumb on single tap?
+
+3. Numpad to left hand (and commas, colons and arrows to the right)
+    - plus, divide, multiply on left hand for num layer
+
+4. Do something with Russian layout
+   - You can look at Jian keymap.
+
+5. Understand and maybe add tap dance
